@@ -1,0 +1,9 @@
+{
+	"name": "pocdn",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "208361c9-436d-4b59-b219-6b007a003842",
+		"tenantId": "0203bfdc-4ed9-45e9-94d3-4a6cd6d6c387"
+	}
+}
